@@ -41,8 +41,8 @@ Ensure you have **Python 3.7+** and the necessary dependencies installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CSL4020-IITJ.git
-cd CSL4020-IITJ
+git clone https://github.com/om-nain/CSL4020.git
+cd CSL4020
 
 # Create a virtual environment (optional)
 python -m venv venv
